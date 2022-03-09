@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2022/03/06/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This &amp;#8195;is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -19,16 +19,17 @@
 ]]></content>
   </entry>
   <entry>
-    <title>第一篇博客——M</title>
+    <title>第一篇博客</title>
     <url>/2022/03/08/myblog/</url>
     <content><![CDATA[<!-- 试试注释 -->
 
-<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>&amp;#8195;&amp;#8195;出于各种缘由吧，最近一直处于一种消极的状态里，没有目标，没有欲望，每天做的最多的便是睡觉。但又并没有觉得觉得很舒服，觉得自己离以前的那个奋斗比越来越远，进而陷入一种或愧疚或焦虑的心态中，身体渴望躺平精神上又抗拒躺平，于是陷入持续的精神内耗中进而反映到身体上便是精神萎靡、嗜睡等，无限循环。而自己逃离这种状态的主观欲望又没有很强烈，前后断断续续已经持续快两年了。<br>&amp;#8195;&amp;#8195;前两天网上冲浪时，偶然看到了<a href="http://anranw.me/blog">一位大佬的生活博客</a>，虽然更新频率不高，但是接近十年的时间跨度读下来真是让人感触颇深，可能是很多心情都能感同身受吧。于是自己也萌生了写博客的想法。可能是为了倾诉？为了记录？为了给自己脱离“丧”找个工具？都行吧，反正我要开始了。</p>
+<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>&amp;#8195;出于各种缘由吧，最近一直处于一种消极的状态里，没有目标，没有欲望，每天做的最多的便是睡觉。但又并没有觉得觉得很舒服，觉得自己离以前的那个奋斗比越来越远，进而陷入一种或愧疚或焦虑的心态中，身体渴望躺平精神上又抗拒躺平，于是陷入持续的精神内耗中进而反映到身体上便是精神萎靡、嗜睡等，无限循环。而自己逃离这种状态的主观欲望又没有很强烈，前后断断续续已经持续快两年了。<br>&amp;#8195;&amp;#8195;前两天网上冲浪时，偶然看到了<a href="http://anranw.me/blog">一位大佬的生活博客</a>，虽然更新频率不高，但是接近十年的时间跨度读下来真是让人感触颇深，可能是很多心情都能感同身受吧。于是自己也萌生了写博客的想法。可能是为了倾诉？为了记录？为了给自己脱离“丧”找个工具？都行吧，反正我要开始了。</p>
 <h1 id="博客建立"><a href="#博客建立" class="headerlink" title="博客建立"></a>博客建立</h1><p>&amp;#8195;&amp;#8195;让我一个非科班渣渣自建博客真是太为难了，面向谷歌都顶不住。从git到hexo到markdown，别人面前的一粒沙子到我面前可能就是一座大山，真是各种意想不到的小问题，什么git端口不能用、扩展域名解析失败、valine无法提交评论、html 转义字符解析失败等等，一团乱麻。不过总算花了两天时间完成了从0到1，还好这周周中组会取消，不然组会上只能给老板讲讲小白博客建立之路了，论文还一字未动，难啊。先这样吧，后面再慢慢调整<a href="https://github.com/jerryc127/hexo-theme-butterfly">博客主题</a>的一些细节。期间从很多其他先行者的博客[^1]获得了很多帮助，感谢。</p>
 <h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><p>&amp;#8195;&amp;#8195;可能啥都会写点，希望至少一周写一篇吧，应该能做到吧。。。</p>
+<p>[1^]: <a href="https://guanqr.com/">https://guanqr.com/</a> ;</p>
 ]]></content>
       <tags>
-        <tag>novice blogger，Markdown</tag>
+        <tag>novice blogger</tag>
       </tags>
   </entry>
 </search>
