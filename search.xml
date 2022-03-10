@@ -9,7 +9,7 @@
 <h1>博客建立</h1>
 <p>  让我一个非科班渣渣自建博客真是太为难了，面向谷歌都顶不住。从git到hexo到markdown，别人面前的一粒沙子到我面前可能就是一座大山，真是各种意想不到的小问题，什么git端口不能用、扩展域名解析失败、valine无法提交评论、html 转义字符解析失败<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>等等，一团乱麻。不过总算花了两天时间完成了从0到1，还好这周周中组会取消，不然组会上只能给老板讲讲小白博客建立之路了，论文还一字未动，难啊。先这样吧，后面再慢慢调整<a href="https://github.com/jerryc127/hexo-theme-butterfly">博客主题</a>的一些细节。期间从很多其他先行者的博客<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>获得了很多帮助，感谢。</p>
 <h1>计划</h1>
-<p>  可能啥都会写点，希望至少一周写一篇吧，论文不写我也得把博客写了应该能做到吧🙏</p>
+<p>  可能啥都会写点，希望至少一周写一篇吧，论文不写我也得把博客写了! 讲道理应该能做到吧emmm</p>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -21,7 +21,7 @@
 </section>
 ]]></content>
       <tags>
-        <tag>novice blogger</tag>
+        <tag>碎碎念</tag>
       </tags>
   </entry>
 </search>
