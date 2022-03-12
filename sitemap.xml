@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhendublog.xyz/about/index.html</loc>
+    <loc>https://www.zhendublog.xyz/about/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://zhendublog.xyz/2022/03/08/myblog/</loc>
+    <loc>https://www.zhendublog.xyz/2022/03/08/myblog/</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://zhendublog.xyz/tags/index.html</loc>
+    <loc>https://www.zhendublog.xyz/tags/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://zhendublog.xyz/categories/index.html</loc>
+    <loc>https://www.zhendublog.xyz/categories/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://zhendublog.xyz/</loc>
+    <loc>https://www.zhendublog.xyz/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,7 +47,7 @@
 
   
   <url>
-    <loc>http://zhendublog.xyz/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <loc>https://www.zhendublog.xyz/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>http://zhendublog.xyz/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://www.zhendublog.xyz/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
