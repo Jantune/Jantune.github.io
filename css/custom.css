@@ -29,3 +29,9 @@
 #footer #footer-wrap a {
     color: var(--font-color)
 }
+
+
+@font-face {
+    font-family: 'FZZhao';
+    src: url('../../fonts/FZZhaoMFXSJF.ttf');
+}
