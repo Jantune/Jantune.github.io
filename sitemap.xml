@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zhendublog.xyz/2022/03/08/firstblog/</loc>
-    
-    <lastmod>2022-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zhendublog.xyz/2022/03/14/my-26-year-old-lodger/</loc>
     
     <lastmod>2022-03-14</lastmod>
@@ -29,18 +20,27 @@
   </url>
   
   <url>
-    <loc>https://www.zhendublog.xyz/tags/index.html</loc>
+    <loc>https://www.zhendublog.xyz/categories/index.html</loc>
     
-    <lastmod>2022-03-12</lastmod>
+    <lastmod>2022-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.zhendublog.xyz/categories/index.html</loc>
+    <loc>https://www.zhendublog.xyz/2022/03/08/firstblog/</loc>
     
-    <lastmod>2022-03-10</lastmod>
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zhendublog.xyz/tags/index.html</loc>
+    
+    <lastmod>2022-03-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -63,7 +63,14 @@
   </url>
   
   <url>
-    <loc>https://www.zhendublog.xyz/tags/%E9%98%85%E8%AF%BB-%E6%96%87%E9%9D%92/</loc>
+    <loc>https://www.zhendublog.xyz/tags/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zhendublog.xyz/tags/%E6%96%87%E9%9D%92/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

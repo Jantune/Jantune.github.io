@@ -1,44 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/2022/03/08/firstblog/</url>
-    <content><![CDATA[<!-- 试试注释 -->
-<h1>缘起</h1>
-<p>  前两天网上冲浪时，偶然看到了<a href="http://anranw.me/blog">一位大佬的生活博客</a>，虽然更新频率不高，但是接近十年的时间跨度读下来真是让人感触颇深，可能是很多心情都能感同身受吧。于是自己也萌生了写博客的想法。可能是为了倾诉？为了记录？为了给自己脱离“丧”找个工具？都行吧，反正我要开始了。</p>
-<h1>博客建立</h1>
-<p>  让我一个非科班渣渣自建博客真是太为难了，面向谷歌都顶不住。从git到hexo到markdown，别人面前的一粒沙子到我面前可能就是一座大山，真是各种意想不到的小问题，什么git端口不能用、扩展域名解析失败、valine无法提交评论、html 转义字符解析失败<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>等等，一团乱麻。不过总算花了两天时间完成了从0到1，还好这周周中组会取消，不然组会上只能给老板讲讲小白博客建立之路了，论文还一字未动，难啊。先这样吧，后面再慢慢调整<a href="https://github.com/jerryc127/hexo-theme-butterfly">博客主题</a>的一些细节。期间从很多其他先行者的博客<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>获得了很多帮助，感谢。</p>
-<h1>计划</h1>
-<p>  可能啥都会写点，希望至少一周写一篇吧，论文不写我也得把博客写了! 讲道理应该能做到吧emmm</p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>还没解决，我的博客到现在为止都打不出特殊字符💔，好吧在我解决表情渲染时解决了，渲染引擎的锅 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-<li id="fn2" class="footnote-item"><p><a href="https://guanqr.com/%EF%BC%8C">https://guanqr.com/，</a> <a href="https://blog.bugimg.com/%EF%BC%8C">https://blog.bugimg.com/，</a> <a href="https://www.simon96.online/">https://www.simon96.online/</a> .etc <a href="#fnref2" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>《我的二十六岁女房客》</title>
+      <link href="/2022/03/14/my-26-year-old-lodger/"/>
+      <url>/2022/03/14/my-26-year-old-lodger/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  在某平台的某个帖子下的评论区看到了这部小说，即使当时评论说这是一部被名字耽误的小说，还是不得不承认这个名字真的容易让人浮想联翩。昨天晚上终于看完了这部小说，笑过骂过痛心过，但最终剩下的只有遗憾了。</p><h5 id="1、人性的背后是白云苍狗"><a class="header-anchor" href="#1、人性的背后是白云苍狗"></a>1、人性的背后是白云苍狗</h5><p>  在小说中，昭阳不止一次的说过这句话，和罗本，和乐瑶。他们仨也真的是对这句话最好的诠释了。昭阳就不说了，站在他自己的视角来看，先是被简薇背叛伤害，</p>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 读书 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《我的二十六岁女房客》</title>
-    <url>/2022/03/14/my-26-year-old-lodger/</url>
-    <content><![CDATA[<p>  在某平台的某个帖子下的评论区看到了这部小说，即使当时评论说这是一部被名字耽误的小说，还是不得不承认这个名字真的容易让人浮想联翩。昨天晚上终于看完了这部小说，笑过骂过痛心过，但最终剩下的只有遗憾了。</p>
-<h5 id="1、人性的背后是白云苍狗"><a class="header-anchor" href="#1、人性的背后是白云苍狗"></a>1、人性的背后是白云苍狗</h5>
-<p>  在小说中，昭阳不止一次的说过这句话，和罗本，和乐瑶。</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 阅读 </tag>
+            
+            <tag> 文青 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2022/03/08/firstblog/"/>
+      <url>/2022/03/08/firstblog/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- 试试注释 --><h1>缘起</h1><p>  前两天网上冲浪时，偶然看到了<a href="http://anranw.me/blog">一位大佬的生活博客</a>，虽然更新频率不高，但是接近十年的时间跨度读下来真是让人感触颇深，可能是很多心情都能感同身受吧。于是自己也萌生了写博客的想法。可能是为了倾诉？为了记录？为了给自己脱离“丧”找个工具？都行吧，反正我要开始了。</p><h1>博客建立</h1><p>  让我一个非科班渣渣自建博客真是太为难了，面向谷歌都顶不住。从git到hexo到markdown，别人面前的一粒沙子到我面前可能就是一座大山，真是各种意想不到的小问题，什么git端口不能用、扩展域名解析失败、valine无法提交评论、html 转义字符解析失败<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>等等，一团乱麻。不过总算花了两天时间完成了从0到1，还好这周周中组会取消，不然组会上只能给老板讲讲小白博客建立之路了，论文还一字未动，难啊。先这样吧，后面再慢慢调整<a href="https://github.com/jerryc127/hexo-theme-butterfly">博客主题</a>的一些细节。期间从很多其他先行者的博客<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>获得了很多帮助，感谢。</p><h1>计划</h1><p>  可能啥都会写点，希望至少一周写一篇吧，论文不写我也得把博客写了! 讲道理应该能做到吧emmm</p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>还没解决，我的博客到现在为止都打不出特殊字符💔，好吧在我解决表情渲染时解决了，渲染引擎的锅 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li><li id="fn2" class="footnote-item"><p><a href="https://guanqr.com/%EF%BC%8C">https://guanqr.com/，</a> <a href="https://blog.bugimg.com/%EF%BC%8C">https://blog.bugimg.com/，</a> <a href="https://www.simon96.online/">https://www.simon96.online/</a> .etc <a href="#fnref2" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
       <categories>
-        <category>读书</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>阅读 文青</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
