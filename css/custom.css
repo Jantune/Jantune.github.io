@@ -33,5 +33,6 @@
 
 @font-face {
     font-family: 'FZZhao';
-    src: url('../../fonts/FZZhaoMFXSJF.ttf');
+    src: url('fonts/FZZhaoMFXSJF.TTF');
+    display: swap;
 }
