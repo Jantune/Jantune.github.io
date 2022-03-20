@@ -51,4 +51,18 @@
         <tag>文青</tag>
       </tags>
   </entry>
+  <entry>
+    <title>An introduction of statistic learning method</title>
+    <url>/2022/03/20/An-introduction-of-statistic-learning-method/</url>
+    <content><![CDATA[<p>统计学习三要素：方法=模型+策略+算法</p>
+<p>模型：确定假设空间（概率模型和非概率模型）<br>
+策略：</p>
+<figure class="highlight python"><figcaption><span>第一题 zhendublog.xyz saika-blog</span></figcaption><table><tr><td class="code"><pre><span class="line">a=<span class="number">2</span></span><br><span class="line">b=<span class="number">3</span></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>统计学习方法</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
 </search>
