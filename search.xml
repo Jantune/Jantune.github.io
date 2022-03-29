@@ -33,7 +33,7 @@
       <link href="/2022/03/20/An-introduction-of-statistic-learning-method/"/>
       <url>/2022/03/20/An-introduction-of-statistic-learning-method/</url>
       
-        <content type="html"><![CDATA[<p>统计学习三要素：方法=模型+策略+算法</p><p>模型：确定假设空间（概率模型和非概率模型）<br>策略：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">a=<span class="number">2</span></span><br><span class="line">b=<span class="number">3</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>统计学习三要素：方法=模型+策略+算法</p><h3 id="模型"><a class="header-anchor" href="#模型"></a>模型</h3><p>模型即为要学习的条件概率分布或决策函数, 假设空间包含所有可能的分布或决策函数<br>条件概率分布:</p><p>$\sqrt{3x-1}+\sqrt[5]{2y^5-4}$</p>]]></content>
       
       
       <categories>
